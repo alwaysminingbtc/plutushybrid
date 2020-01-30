@@ -1,3 +1,6 @@
+#Please download the latest DB here: https://github.com/secretnumber/utxodump. Shout out to secretnumber for keeping this UXTO dump up to date!!!!
+
+#All info below is a copy/paste from issacdelly/plutus
 # Database FAQ
 
 This database is a serialized `set()` of all Bitcoin addresses with a positive balance.
